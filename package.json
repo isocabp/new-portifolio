@@ -1,0 +1,9 @@
+{
+    "name": "new-portifolio",
+    "version": "1.0.0",
+    "description": "Meu site portifólio",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
